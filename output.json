@@ -1,0 +1,1563 @@
+{
+   "0": {
+      "domain": "alt.dk",
+      "timestamp": "Nov  4 20:38:45 2019 GMT",
+      "ip": "54.229.231.191",
+      "title": "Danmarks største livsstilssite - ALT.dk",
+      "headers": {
+         "Server": "Microsoft-IIS/10.0",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "commonName": "alt.dk"
+            },
+            "subjectAltName": [
+               "alt.dk",
+               "*.alt.dk",
+               "*.staging.alt.dk",
+               "euroman.dk",
+               "*.euroman.dk",
+               "*.staging.euroman.dk",
+               "voresborn.dk",
+               "*.voresborn.dk"
+            ],
+            "serialNumber": "01A8FA39B63E289447B1C8E70250F969",
+            "notBefore": "May 15 00:00:00 2019 GMT",
+            "notAfter": "Jun 15 12:00:00 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "US",
+               "organizationName": "Amazon",
+               "organizationalUnitName": "Server CA 1B",
+               "commonName": "Amazon"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "1": {
+      "domain": "altinget.dk",
+      "timestamp": "Nov  4 20:38:50 2019 GMT",
+      "ip": "81.7.160.212",
+      "title": "Altinget - Alt om politik: altinget.dk",
+      "headers": {
+         "Server": "Microsoft-IIS/10.0",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "countryName": "DK",
+               "localityName": "København K",
+               "organizationName": "ApS ALTINGET.DK",
+               "organizationalUnitName": "IT department",
+               "commonName": "www.altinget.dk"
+            },
+            "subjectAltName": [
+               "www.altinget.dk",
+               "altinget.dk",
+               "www.altinget.se",
+               "public.altinget.dk"
+            ],
+            "serialNumber": "06CAA8EE3CE9CBF216EF1A56BE9C50CA",
+            "notBefore": "Sep 13 00:00:00 2018 GMT",
+            "notAfter": "Oct 23 12:00:00 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "US",
+               "organizationName": "DigiCert Inc",
+               "organizationalUnitName": "www.digicert.com",
+               "commonName": "GeoTrust RSA CA 2018"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": true,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": true,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "2": {
+      "domain": "apoteket.dk",
+      "timestamp": "Nov  4 20:38:57 2019 GMT",
+      "ip": "77.221.235.170",
+      "title": "Apoteket.dk",
+      "headers": {
+         "Server": "Danmarks Apotekerforening",
+         "Strict-Transport-Security": "max-age=31536000; includeSubdomains",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff",
+         "X-XSS-Protection": "1; mode=block",
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "organizationalUnitName": "Domain Control Validated",
+               "commonName": "*.apoteket.dk"
+            },
+            "subjectAltName": [
+               "*.apoteket.dk",
+               "apoteket.dk"
+            ],
+            "serialNumber": "7D940A52098839FD8371A559",
+            "notBefore": "Mar 16 11:16:41 2018 GMT",
+            "notAfter": "Jun 11 23:59:59 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "BE",
+               "organizationName": "GlobalSign nv-sa",
+               "commonName": "AlphaSSL CA - SHA256 - G2"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": false,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": false,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": true,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": true,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "3": {
+      "domain": "borger.dk",
+      "timestamp": "Nov  4 20:39:00 2019 GMT",
+      "ip": "212.98.96.22",
+      "title": "borger.dk - Din indgang til det offentlige",
+      "headers": {
+         "Server": null,
+         "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff",
+         "X-XSS-Protection": "1",
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": "default-src 'self' https: data:;script-src 'self' 'unsafe-inline' 'unsafe-eval' https:;style-src 'self' 'unsafe-inline' https:;upgrade-insecure-requests",
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "countryName": "DK",
+               "stateOrProvinceName": "Ballerup",
+               "localityName": "Ballerup",
+               "organizationName": "Statens It",
+               "commonName": "*.borger.dk"
+            },
+            "subjectAltName": [
+               "*.borger.dk",
+               "borger.dk"
+            ],
+            "serialNumber": "19476BC8F2D4E81C3065E100",
+            "notBefore": "Mar 15 09:36:03 2019 GMT",
+            "notAfter": "Mar 15 09:36:03 2021 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "BE",
+               "organizationName": "GlobalSign nv-sa",
+               "commonName": "GlobalSign Organization Validation CA - SHA256 - G2"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": false,
+            "AES128-GCM-SHA256": false,
+            "AES256-SHA256": false,
+            "AES128-SHA256": false,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "4": {
+      "domain": "coop.dk",
+      "timestamp": "Nov  4 20:39:02 2019 GMT",
+      "ip": "193.89.129.10",
+      "title": "Coop.dk – Køb mærkevarer og dagligvarer online",
+      "headers": {
+         "Server": "Microsoft-IIS/7.0",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "countryName": "DK",
+               "stateOrProvinceName": "Albertslund",
+               "localityName": "Albertslund",
+               "organizationName": "Coop Danmark A/S",
+               "commonName": "*.coop.dk"
+            },
+            "subjectAltName": [
+               "*.coop.dk",
+               "coopmad.dk",
+               "coop-mad.dk",
+               "coopshopping.dk",
+               "coop-shopping.dk",
+               "www.coopmad.dk",
+               "www.coop-mad.dk",
+               "www.coopshopping.dk",
+               "www.coop-shopping.dk",
+               "*.intra.coop",
+               "coop.dk"
+            ],
+            "serialNumber": "05D6B56D41E529161AE662F6",
+            "notBefore": "May 31 20:31:04 2017 GMT",
+            "notAfter": "Jul 18 10:05:54 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "BE",
+               "organizationName": "GlobalSign nv-sa",
+               "commonName": "GlobalSign Organization Validation CA - SHA256 - G2"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": false,
+            "AES128-SHA": false
+         }
+      }
+   },
+   "5": {
+      "domain": "dk-hostmaster.dk",
+      "timestamp": "Nov  4 20:39:05 2019 GMT",
+      "ip": "217.70.186.102",
+      "title": "Velkommen til DK Hostmaster | DK Hostmaster",
+      "headers": {
+         "Server": "Apache",
+         "Strict-Transport-Security": "max-age=63072000; includeSubDomains",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff",
+         "X-XSS-Protection": null,
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "businessCategory": "Private Organization",
+               "jurisdictionCountryName": "DK",
+               "serialNumber": "24210375",
+               "countryName": "DK",
+               "localityName": "Copenhagen",
+               "organizationName": "DK Hostmaster A/S",
+               "commonName": "www.dk-hostmaster.dk"
+            },
+            "subjectAltName": [
+               "www.dk-hostmaster.dk",
+               "dk-hostmaster.dk"
+            ],
+            "serialNumber": "03EB8A637C167274B49A5B481298C03D",
+            "notBefore": "Sep  4 00:00:00 2019 GMT",
+            "notAfter": "Jul  2 12:00:00 2021 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "US",
+               "organizationName": "DigiCert Inc",
+               "organizationalUnitName": "www.digicert.com",
+               "commonName": "DigiCert SHA2 Extended Validation Server CA"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": true,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": false,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": false,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": false,
+            "AES128-SHA256": false,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "6": {
+      "domain": "dr.dk",
+      "timestamp": "Nov  4 20:39:09 2019 GMT",
+      "ip": "159.20.6.38",
+      "title": "DR | TV, radio, nyheder og meget mere",
+      "headers": {
+         "Server": null,
+         "Strict-Transport-Security": "max-age=31536000 ; preload",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": "allow-from https://www.dr.dk/",
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "countryName": "DK",
+               "stateOrProvinceName": "Copenhagen",
+               "localityName": "Copenhagen S",
+               "organizationName": "DR",
+               "commonName": "*.dr.dk"
+            },
+            "subjectAltName": [
+               "*.dr.dk",
+               "autodiscover.dr.dk",
+               "mail.dr.dk",
+               "owa.dr.dk",
+               "www.dr.dk",
+               "dr.dk"
+            ],
+            "serialNumber": "01F084383AB0544A3986CB04",
+            "notBefore": "Jan 26 08:56:07 2018 GMT",
+            "notAfter": "Mar 18 09:36:47 2021 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "BE",
+               "organizationName": "GlobalSign nv-sa",
+               "commonName": "GlobalSign Organization Validation CA - SHA256 - G2"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "7": {
+      "domain": "dustinhome.dk",
+      "timestamp": "Nov  4 20:39:13 2019 GMT",
+      "ip": "194.132.19.237",
+      "title": "Bærbare computere, tablets, lagring, grafikkort og forbrugerelektronik | Dustinhome.dk",
+      "headers": {
+         "Server": "Dustin LB-2",
+         "Strict-Transport-Security": "max-age=15984000; includeSubDomains",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {},
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": true,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": true,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": true,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": true,
+            "ECDHE-ECDSA-AES128-SHA256": true,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA": true,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": true,
+            "ECDHE-ECDSA-AES128-SHA": true,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": true,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "8": {
+      "domain": "eaaa.dk",
+      "timestamp": "Nov  4 20:39:19 2019 GMT",
+      "ip": "212.97.129.139",
+      "title": "Erhvervsakademi Aarhus - EAAA - Vi kombinerer teori og praksis",
+      "headers": {
+         "Server": null,
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "commonName": "www.eaaa.dk"
+            },
+            "subjectAltName": [
+               "www.eaaa.dk",
+               "eaaa.dk"
+            ],
+            "serialNumber": "066757EBEC926C622B093DE8DDB4A7B3",
+            "notBefore": "Feb 27 00:00:00 2018 GMT",
+            "notAfter": "Apr 27 12:00:00 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "US",
+               "organizationName": "DigiCert Inc",
+               "organizationalUnitName": "www.digicert.com",
+               "commonName": "GeoTrust RSA CA 2018"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": false,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": false,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "9": {
+      "domain": "feltet.dk",
+      "timestamp": "Nov  4 20:39:23 2019 GMT",
+      "ip": "104.28.15.52",
+      "title": "Feltet.dk - Alt om cykling",
+      "headers": {
+         "Server": "cloudflare",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "organizationalUnitName": "PositiveSSL Multi-Domain",
+               "commonName": "sni30203.cloudflaressl.com"
+            },
+            "subjectAltName": [
+               "sni30203.cloudflaressl.com",
+               "*.bareruinedchoirs.com",
+               "*.bdsmvideos.download",
+               "*.bdsmvideos.online",
+               "*.canalboatuk.com",
+               "*.cb6000.sk",
+               "*.con-dom.sk",
+               "*.condom.sk",
+               "*.czechvideosonline.com",
+               "*.feltet.dk",
+               "*.fnyan.com",
+               "*.hak.sk",
+               "*.kinkdvd.eu",
+               "*.kinkvideosonline.com",
+               "*.kinkvideosonline.net",
+               "*.kozaksclassiccinema.com",
+               "*.letme.sk",
+               "*.pantyhosedatingservice.com",
+               "*.rangermovingsystems.com",
+               "*.sexyhrackarstvi.cz",
+               "*.studio-molino.com",
+               "*.vpasociados.com",
+               "bareruinedchoirs.com",
+               "bdsmvideos.download",
+               "bdsmvideos.online",
+               "canalboatuk.com",
+               "cb6000.sk",
+               "con-dom.sk",
+               "condom.sk",
+               "czechvideosonline.com",
+               "feltet.dk",
+               "fnyan.com",
+               "hak.sk",
+               "kinkdvd.eu",
+               "kinkvideosonline.com",
+               "kinkvideosonline.net",
+               "kozaksclassiccinema.com",
+               "letme.sk",
+               "pantyhosedatingservice.com",
+               "rangermovingsystems.com",
+               "sexyhrackarstvi.cz",
+               "studio-molino.com",
+               "vpasociados.com"
+            ],
+            "serialNumber": "3CAEA17A7C59334DBC8ACF1AEB01B5FC",
+            "notBefore": "Oct 20 00:00:00 2019 GMT",
+            "notAfter": "Apr 27 23:59:59 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "GB",
+               "stateOrProvinceName": "Greater Manchester",
+               "localityName": "Salford",
+               "organizationName": "COMODO CA Limited",
+               "commonName": "COMODO ECC Domain Validation Secure Server CA 2"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": true,
+            "ECDHE-RSA-AES256-GCM-SHA384": false,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": true,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": true,
+            "ECDHE-RSA-AES128-GCM-SHA256": false,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": true,
+            "ECDHE-RSA-AES256-SHA384": false,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": true,
+            "ECDHE-RSA-AES128-SHA256": false,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": true,
+            "ECDHE-RSA-AES256-SHA": false,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": true,
+            "ECDHE-RSA-AES128-SHA": false,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": false,
+            "AES128-GCM-SHA256": false,
+            "AES256-SHA256": false,
+            "AES128-SHA256": false,
+            "AES256-SHA": false,
+            "AES128-SHA": false
+         }
+      }
+   },
+   "10": {
+      "domain": "godstart.dk",
+      "timestamp": "Nov  4 20:39:26 2019 GMT",
+      "ip": "81.7.169.236",
+      "title": "GodStart.dk - Din genvej til Internettet",
+      "headers": {
+         "Server": "Apache/2.2.22 (Debian)",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "organizationalUnitName": "EssentialSSL",
+               "commonName": "www.godstart.dk"
+            },
+            "subjectAltName": [
+               "www.godstart.dk",
+               "godstart.dk"
+            ],
+            "serialNumber": "EA8CFDA99FCA903179AF86D9798DA473",
+            "notBefore": "Oct 10 00:00:00 2018 GMT",
+            "notAfter": "Oct  9 23:59:59 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "GB",
+               "stateOrProvinceName": "Greater Manchester",
+               "localityName": "Salford",
+               "organizationName": "COMODO CA Limited",
+               "commonName": "COMODO RSA Domain Validation Secure Server CA"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": true,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": true,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": true,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "11": {
+      "domain": "lidl.dk",
+      "timestamp": "Nov  4 20:39:28 2019 GMT",
+      "ip": "104.87.229.71",
+      "title": "Ugens tilbud - Find alle vores tilbud her - Lidl.dk   - www.lidl.dk",
+      "headers": {
+         "Server": "nginx",
+         "Strict-Transport-Security": "max-age=15768000",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff",
+         "X-XSS-Protection": "1; mode=block",
+         "X-Frame-Options": null,
+         "Content-Security-Policy": "default-src 'self'; object-src www.youtube.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.multichannelacd.de lidl.media01.eu form.lidl.com *.lidl.com *.ccmp.eu *.lidl *.lidl.net *.lidl-flyer.com *.google-analytics.com *.bing.com *.virtualearth.net *.googletagmanager.com tagmanager.google.com assets.zendesk.com connect.facebook.net *.cookiebot.com *.secrz.de *.google-analytics.com connect.facebook.net c.imedia.cz www.dwin1.com www.youtube.com ads.yahoo.com advdl.ammadv.it cm.g.doubleclick.net d.adroll.com s.adroll.com us-u.openx.net lidlplus-prod-api.azurewebsites.net; img-src 'self' data: lidlplusprod.blob.core.windows.net *.lidl *.lidl.net *.ccmp.eu *.lidl.com *.lidl-flyer.com *.google-analytics.com *.bing.com *.virtualearth.net *.osm.org *.openstreetmap.org *.doubleclick.net s-static.ak.facebook.com assets.zendesk.com *.secrz.de *.google-analytics.com www.facebook.com c.imedia.cz x.bidswitch.net advdl.ammadv.it d.adroll.com idsync.rlcdn.com ib.adnxs.com stats.g.doubleclick.net lidlplusstoragestaging.blob.core.windows.net lidlplusstaticcontentpro.blob.core.windows.net; style-src 'self' 'unsafe-inline' form.lidl.com fonts.googleapis.com *.bing.com assets.zendesk.com *.secrz.de; font-src 'self' 'unsafe-inline' form.lidl.com data: themes.googleusercontent.com fonts.gstatic.com; frame-src 'self' https: 'unsafe-inline'; connect-src 'self' content.lidlplus.com *.multichannelacd.de lidl.media01.eu form.lidl.com *.lidl *.test *.lidl.net *.lidl.com *.bing.com *.ccmp.eu *.virtualearth.net *.osm.org *.openstreetmap.org *.secrz.de *.google-analytics.com lidlplus-uat-api.azurewebsites.net lidlplus-prod-api.azurewebsites.net; frame-ancestors 'self' *.lidl *.ccmp.eu *.lidl.com *.test *.lidl.net *.bing.com *.googletagmanager.com *.secrz.de *.google-analytics.com *.poi-service.de *.lidl.ch website-lidl-account-dev.azurewebsites.net accounts-stg.lidl.com accounts-qa.lidl.com accounts-uat.lidl.com accounts.lidl.com;",
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {},
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": true,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "12": {
+      "domain": "matas.dk",
+      "timestamp": "Nov  4 20:39:32 2019 GMT",
+      "ip": "104.20.46.125",
+      "title": "Matas.dk",
+      "headers": {
+         "Server": "cloudflare",
+         "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff",
+         "X-XSS-Protection": "1; mode=block",
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "organizationalUnitName": "PositiveSSL Multi-Domain",
+               "commonName": "ssl418733.cloudflaressl.com"
+            },
+            "subjectAltName": [
+               "ssl418733.cloudflaressl.com",
+               "*.matas.dk",
+               "matas.dk"
+            ],
+            "serialNumber": "9EB68B95FBCF18CB9C237AE11BD9186D",
+            "notBefore": "Jun 29 00:00:00 2019 GMT",
+            "notAfter": "Jan  5 23:59:59 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "GB",
+               "stateOrProvinceName": "Greater Manchester",
+               "localityName": "Salford",
+               "organizationName": "COMODO CA Limited",
+               "commonName": "COMODO ECC Domain Validation Secure Server CA 2"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": true,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": true,
+            "ECDHE-RSA-CHACHA20-POLY1305": true,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": true,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": true,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": true,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "13": {
+      "domain": "meny.dk",
+      "timestamp": "Nov  4 20:39:35 2019 GMT",
+      "ip": "82.192.79.248",
+      "title": "MENY.dk - Hele Danmarks Fødevaremarked",
+      "headers": {
+         "Server": "nginx/1.16.0",
+         "Strict-Transport-Security": "max-age=15768000",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff, nosniff",
+         "X-XSS-Protection": null,
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "organizationalUnitName": "PositiveSSL Wildcard",
+               "commonName": "*.meny.dk"
+            },
+            "subjectAltName": [
+               "*.meny.dk",
+               "meny.dk"
+            ],
+            "serialNumber": "9EECE1E5229724B866E382774BF07AA1",
+            "notBefore": "Sep 13 00:00:00 2017 GMT",
+            "notAfter": "Sep 12 23:59:59 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "GB",
+               "stateOrProvinceName": "Greater Manchester",
+               "localityName": "Salford",
+               "organizationName": "COMODO CA Limited",
+               "commonName": "COMODO RSA Domain Validation Secure Server CA"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": true,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": false,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": true,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": false,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": false,
+            "AES128-GCM-SHA256": false,
+            "AES256-SHA256": false,
+            "AES128-SHA256": false,
+            "AES256-SHA": false,
+            "AES128-SHA": false
+         }
+      }
+   },
+   "14": {
+      "domain": "power.dk",
+      "timestamp": "Nov  4 20:39:41 2019 GMT",
+      "ip": "213.239.100.11",
+      "title": "POWER – Samme lave pris i butik som på net - Power.dk",
+      "headers": {
+         "Server": null,
+         "Strict-Transport-Security": "max-age=31536001",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": "frame-ancestors 'self' https://www.bosoy-online.com",
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {},
+         "tlsProtocol": {
+            "TLSv1.0": false,
+            "TLSv1.1": false,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": true,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": true,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": true,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": true,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": false,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": false,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": false,
+            "AES128-SHA256": false,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "15": {
+      "domain": "rokort.dk",
+      "timestamp": "Nov  4 20:39:43 2019 GMT",
+      "ip": "54.247.71.97",
+      "title": "Elektronisk rokort til kajak- og roklubber",
+      "headers": {
+         "Server": "Apache",
+         "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff",
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "organizationalUnitName": "PositiveSSL Multi-Domain",
+               "commonName": "rokort.dk"
+            },
+            "subjectAltName": [
+               "rokort.dk",
+               "www.rokort.dk"
+            ],
+            "serialNumber": "C4E1AADFA096AEF4A5952D966A248640",
+            "notBefore": "Aug 13 00:00:00 2019 GMT",
+            "notAfter": "Aug 29 23:59:59 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "GB",
+               "stateOrProvinceName": "Greater Manchester",
+               "localityName": "Salford",
+               "organizationName": "Sectigo Limited",
+               "commonName": "Sectigo RSA Domain Validation Secure Server CA"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": true,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": true,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": true,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "16": {
+      "domain": "sol.dk",
+      "timestamp": "Nov  4 20:39:50 2019 GMT",
+      "ip": "81.7.169.155",
+      "title": "SOL.dk |",
+      "headers": {
+         "Server": "nginx/1.6.2",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": "nosniff",
+         "X-XSS-Protection": null,
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "commonName": "www.sol.dk"
+            },
+            "subjectAltName": [
+               "www.sol.dk",
+               "sol.dk"
+            ],
+            "serialNumber": "08E0F8107BC98B803F39C13676CF7A63",
+            "notBefore": "Jun  8 00:00:00 2018 GMT",
+            "notAfter": "Jun  7 12:00:00 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "US",
+               "organizationName": "DigiCert Inc",
+               "organizationalUnitName": "www.digicert.com",
+               "commonName": "RapidSSL RSA CA 2018"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": true,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": true,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": true,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "17": {
+      "domain": "stiften.dk",
+      "timestamp": "Nov  4 20:39:55 2019 GMT",
+      "ip": "80.63.11.72",
+      "title": "Århus Stiftstidende → Seneste nyt | stiften.dk",
+      "headers": {
+         "Server": "nginx",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "commonName": "stiften.dk"
+            },
+            "subjectAltName": [
+               "aarhus-guiden.dk",
+               "aarhus-net.dk",
+               "aarhus-stiftstidende.dk",
+               "aarhusnu.dk",
+               "aarhuspuls.dk",
+               "aarhusstiftstidende.dk",
+               "abonnement.stiften.dk",
+               "altomaarhus.dk",
+               "altomagf.dk",
+               "altomarhus.dk",
+               "aoa-kupon.dk",
+               "aoa.dk",
+               "aoaa.dk",
+               "aoadk.dk",
+               "aoapremium.dk",
+               "arhus-guiden.dk",
+               "arhus-panelet.dk",
+               "arhus360.dk",
+               "arhusguiden.dk",
+               "cafe-stiften.dk",
+               "cafestiften.dk",
+               "dagbladetdjursland.dk",
+               "m.prelive.stiften.dk",
+               "m.stiften.dk",
+               "mobil.aoa.dk",
+               "nocache.stiften.dk",
+               "prelive.stiften.dk",
+               "stiften-aarhus.dk",
+               "stiften.dk",
+               "stiftendk.dk",
+               "t.prelive.stiften.dk",
+               "t.stiften.dk",
+               "vieraarhus.dk",
+               "vierarhus.dk",
+               "www.aarhus-guiden.dk",
+               "www.aarhus-net.dk",
+               "www.aarhus-stiftstidende.dk",
+               "www.aarhusnu.dk",
+               "www.aarhuspuls.dk",
+               "www.aarhusstiftstidende.dk",
+               "www.altomaarhus.dk",
+               "www.altomagf.dk",
+               "www.altomarhus.dk",
+               "www.aoa.dk",
+               "www.aoaa.dk",
+               "www.arhus-panelet.dk",
+               "www.arhus360.dk",
+               "www.cafe-stiften.dk",
+               "www.dagbladetdjursland.dk",
+               "www.stiften-aarhus.dk",
+               "www.stiften.dk",
+               "www.wwwstiften.dk",
+               "www.xn--altomrhus-92a.dk",
+               "www.xn--ao-zia.dk",
+               "www.xn--rhuspuls-8za.dk",
+               "wwwaoa.dk",
+               "wwwstiften.dk",
+               "xn--altomrhus-92a.dk",
+               "xn--ao-zia.dk",
+               "xn--rhuspuls-8za.dk"
+            ],
+            "serialNumber": "03C4436509B48BF583B060310195F6F7FB79",
+            "notBefore": "Oct  1 01:51:14 2019 GMT",
+            "notAfter": "Dec 30 01:51:14 2019 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "US",
+               "organizationName": "Let's Encrypt",
+               "commonName": "Let's Encrypt Authority X3"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": false,
+            "TLSv1.1": false,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": true,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": true,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": true,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": true,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": false,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": false,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": false,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": false,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": false,
+            "AES128-GCM-SHA256": false,
+            "AES256-SHA256": false,
+            "AES128-SHA256": false,
+            "AES256-SHA": false,
+            "AES128-SHA": false
+         }
+      }
+   },
+   "18": {
+      "domain": "tv2.dk",
+      "timestamp": "Nov  4 20:39:57 2019 GMT",
+      "ip": "91.224.211.71",
+      "title": "TV 2 - bedst på breaking og live",
+      "headers": {
+         "Server": "Apache/2.4.10 (Debian)",
+         "Strict-Transport-Security": null,
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": null,
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "commonName": "*.tv2.dk"
+            },
+            "subjectAltName": [
+               "*.tv2.dk",
+               "tv2.dk"
+            ],
+            "serialNumber": "0639A678EB8183B12FE45A6B2F37976A",
+            "notBefore": "Dec  5 00:00:00 2017 GMT",
+            "notAfter": "Dec  4 12:00:00 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "US",
+               "organizationName": "DigiCert Inc",
+               "organizationalUnitName": "www.digicert.com",
+               "commonName": "RapidSSL RSA CA 2018"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": true,
+            "TLSv1.1": true,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   },
+   "19": {
+      "domain": "vivus.dk",
+      "timestamp": "Nov  4 20:40:00 2019 GMT",
+      "ip": "45.60.19.69",
+      "title": "VIVUS.DK - Lån op til 12.000 kr ➾ Enkelt & hurtigt at ansøge ➾ Udbetaling 24/7",
+      "headers": {
+         "Server": "nginx",
+         "Strict-Transport-Security": "max-age=31536000",
+         "Public-Key-Pins": null,
+         "X-Content-Type-Options": null,
+         "X-XSS-Protection": null,
+         "X-Frame-Options": "SAMEORIGIN",
+         "Content-Security-Policy": null,
+         "Content-Security-Policy-Report-Only": null
+      },
+      "cryptography": {
+         "certificate": {
+            "subject": {
+               "countryName": "US",
+               "stateOrProvinceName": "Delaware",
+               "localityName": "Dover",
+               "organizationName": "Incapsula Inc",
+               "commonName": "incapsula.com"
+            },
+            "subjectAltName": [
+               "incapsula.com",
+               "*.4finance.com",
+               "*.efectigo.com.mx",
+               "*.friia.se",
+               "*.goodcredit.am",
+               "*.kimbi.ge",
+               "*.kimbi.goodcredit.am",
+               "*.kuiq.es",
+               "*.lendgreen.com",
+               "*.northcash.com",
+               "*.payments.4finance.com",
+               "*.tbileasing.ro",
+               "*.vivus.bg",
+               "*.vivus.com.ar",
+               "*.vivus.com.mx",
+               "*.vivus.dk",
+               "*.vivus.lt",
+               "*.vivus.pl",
+               "*.vivusjousto.fi",
+               "*.vivusonline.es",
+               "*.vivusonline.fi",
+               "*.volana.com.mx",
+               "*.zaplo.com",
+               "*.zaplo.pl",
+               "*.zaplonasplatky.cz",
+               "efectigo.com.mx",
+               "friia.se",
+               "kimbi.ge",
+               "kuiq.es",
+               "lendgreen.com",
+               "northcash.com",
+               "universalpay.payments.4finance.com",
+               "vivus.bg",
+               "vivus.com.ar",
+               "vivus.com.mx",
+               "vivus.dk",
+               "vivus.lt",
+               "vivus.pl",
+               "vivusjousto.fi",
+               "vivusonline.es",
+               "vivusonline.fi",
+               "volana.com.mx",
+               "zaplo.com",
+               "zaplo.pl",
+               "zaplonasplatky.cz"
+            ],
+            "serialNumber": "038F452200F5904F122CDABE",
+            "notBefore": "Oct 16 13:10:38 2019 GMT",
+            "notAfter": "Jul  1 21:04:03 2020 GMT",
+            "csa": "None",
+            "issuer": {
+               "countryName": "BE",
+               "organizationName": "GlobalSign nv-sa",
+               "commonName": "GlobalSign CloudSSL CA - SHA256 - G3"
+            }
+         },
+         "tlsProtocol": {
+            "TLSv1.0": false,
+            "TLSv1.1": false,
+            "TLSv1.2": true
+         },
+         "cipher": {
+            "ECDHE-ECDSA-AES256-GCM-SHA384": false,
+            "ECDHE-RSA-AES256-GCM-SHA384": true,
+            "DHE-RSA-AES256-GCM-SHA384": false,
+            "ECDHE-ECDSA-CHACHA20-POLY1305": false,
+            "ECDHE-RSA-CHACHA20-POLY1305": false,
+            "DHE-RSA-CHACHA20-POLY1305": false,
+            "ECDHE-ECDSA-AES128-GCM-SHA256": false,
+            "ECDHE-RSA-AES128-GCM-SHA256": true,
+            "DHE-RSA-AES128-GCM-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA384": false,
+            "ECDHE-RSA-AES256-SHA384": true,
+            "DHE-RSA-AES256-SHA256": false,
+            "ECDHE-ECDSA-AES128-SHA256": false,
+            "ECDHE-RSA-AES128-SHA256": true,
+            "DHE-RSA-AES128-SHA256": false,
+            "ECDHE-ECDSA-AES256-SHA": false,
+            "ECDHE-RSA-AES256-SHA": true,
+            "DHE-RSA-AES256-SHA": false,
+            "ECDHE-ECDSA-AES128-SHA": false,
+            "ECDHE-RSA-AES128-SHA": true,
+            "DHE-RSA-AES128-SHA": false,
+            "AES256-GCM-SHA384": true,
+            "AES128-GCM-SHA256": true,
+            "AES256-SHA256": true,
+            "AES128-SHA256": true,
+            "AES256-SHA": true,
+            "AES128-SHA": true
+         }
+      }
+   }
+}
